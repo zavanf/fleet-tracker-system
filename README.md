@@ -1,9 +1,4 @@
-# fleet-tracker-system
-Fleet tracking system with SQL database and web interface for managing GPS telemetry data.
-
-
 # Fleet Tracker Database & Web Interface
-
 A database-driven fleet tracking system designed to store and manage GPS telemetry data from vehicle tracking devices.
 
 ## Technologies
